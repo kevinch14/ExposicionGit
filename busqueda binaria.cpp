@@ -22,6 +22,7 @@ mit=(inf+sup)/2;
 } 
 if (A[mit]<dato) 
 { 
+system("pause");
 inf=mit; 
 mit=(inf+sup)/2; 
 } 
